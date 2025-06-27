@@ -1,7 +1,8 @@
 fastapi
 uvicorn
 openai
-chromadb
 langchain
+langchain-community
+chromadb
 pymupdf
 watchdog
