@@ -6,3 +6,4 @@ langchain-community
 chromadb
 pymupdf
 watchdog
+python-multipart
